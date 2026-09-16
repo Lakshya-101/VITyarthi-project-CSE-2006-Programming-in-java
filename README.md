@@ -1,7 +1,7 @@
 # Bank Account Management System
 
 A console-based Bank Account Management System built in core Java, developed as a
-"Build Your Own Project" submission for the **Programming in Java** course.
+"Build Your Own Project" for the **Programming in Java** course.
 
 ## Overview
 
