@@ -100,7 +100,7 @@ JDK (e.g. from https://adoptium.net, or `sudo apt install openjdk-21-jdk` on Ubu
 
 **1. Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Lakshya-101/VITyarthi-project-CSE-2006-Programming-in-java.git
 cd BankAccountManagementSystem
 ```
 
