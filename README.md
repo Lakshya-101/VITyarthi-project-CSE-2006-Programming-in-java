@@ -168,10 +168,3 @@ final summary, exiting with a non-zero status if any test fails.
 4. From the main menu, options **3** and **4** are admin-only utilities: posting
    monthly interest across all savings accounts, and running a fraud scan.
 5. Choose **0** to log out or exit — your data is saved automatically.
-
-## Future Enhancements
-
-- Replace flat-file persistence with JDBC-backed storage (MySQL/PostgreSQL)
-- Add a JavaFX/Swing GUI in place of the console interface
-- Migrate the test harness to JUnit 5 once a build tool (Maven/Gradle) is introduced
-- Externalize fraud-detection thresholds into a configuration file
