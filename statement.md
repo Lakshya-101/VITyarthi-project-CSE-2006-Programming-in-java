@@ -32,13 +32,10 @@ live data source. These are noted as future enhancements rather than delivered f
 ## Target Users
 
 - **Bank customers** — individuals who register, open an account, and perform day-to-day
-  transactions (deposits, withdrawals, transfers, viewing statements).
+  transactions (deposits, withdrawals, transfers, viewing statements). This includes students, who are commonly among a bank's first-time account holders and benefit from a simple, low-friction onboarding and transaction flow like the one this project provides.
 - **Bank administrators / operations staff** — represented in this project by the two
   admin-only console options: running the month-end interest job and running a fraud scan
   across all accounts.
-- **Course evaluators** — the project is also built to be easy to read, compile, and test
-  end-to-end without any external tooling, so it can be evaluated purely from the source
-  code and this documentation.
 
 ## High-Level Features
 
