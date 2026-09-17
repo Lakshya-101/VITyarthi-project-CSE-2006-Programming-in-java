@@ -9,7 +9,7 @@ Small-scale banking simulations built purely for demonstration purposes often sk
 concerns entirely, focusing only on basic CRUD operations. This project builds a Bank
 Account Management System that goes a step further: it applies core Java concepts to model
 a system that handles money movement safely, authenticates users securely, flags unusual
-activity, and produces proper statements — while remaining simple enough to run and grade
+activity, and produces proper statements — while remaining simple enough to run and function
 as a standalone console application.
 
 ## Scope of the Project
